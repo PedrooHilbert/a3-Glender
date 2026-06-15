@@ -1,4 +1,12 @@
-    # ABA RESTAURANTE,Cardapio, Dashboard
+## Integrantes 
+- Luana Xavier Monteiro -RA 32610012
+- Daniel de Almeirda Vieira -RA 326127969
+-  Arthur  Kyldare Alves  Araujo Oliveira- RA 32612974
+-  Christopher Nascimento Lopes  de Azevedo- RA 326129757
+-  Pedro Morais Hilbert -RA 326129790
+  
+  
+  #  ABA RESTAURANTE,Cardapio, Dashboard
 
 ## Telas
 - Login/Cadastro
